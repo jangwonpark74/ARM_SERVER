@@ -1,6 +1,7 @@
 # ARM_SERVER
 
 ## ARMv1 HACK
+ - [Dave's ARMv1 Hack's](http://daveshacks.blogspot.com/2015/12/inside-alu-of-armv1-first-arm.html)
  - [ARMv1 barrel shifter](http://daveshacks.blogspot.com/2016/01/inside-armv1-decoding-barrel-shifter.html)
 
 ## Astra SuperComputer
