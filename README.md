@@ -1,6 +1,9 @@
 # ARM_SERVER
 
 ## ARMv1 HACK
+ 
+ - [ARMv1 CPU](https://en.wikichip.org/wiki/acorn/microarchitectures/arm1)
+ - [ARMv1 Inventor Sophie wilson](https://www.eevblog.com/forum/chat/arm-inventor-sophie-wilson/)
  - [Dave's ARMv1 Hack's](http://daveshacks.blogspot.com/2015/12/inside-alu-of-armv1-first-arm.html)
  - [ARMv1 barrel shifter](http://daveshacks.blogspot.com/2016/01/inside-armv1-decoding-barrel-shifter.html)
 
