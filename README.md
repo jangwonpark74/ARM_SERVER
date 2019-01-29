@@ -10,6 +10,8 @@
 ## Astra SuperComputer
  - [Astra Thunder X2](https://en.wikichip.org/wiki/supercomputers/astra)
   
+## ARM Preparing for Future
+ - [ARM IR](https://cdn.group.softbank/en/corp/set/data/irinfo/presentations/investors/pdf/2017/investor_20170907_01.pdf)
 
 
 ## Centriq
