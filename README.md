@@ -20,6 +20,8 @@
 
 - [Arm Neoverse E1 & N1 Processor Target Edge and Cloud Infrastructure](https://www.cnx-software.com/2019/02/21/arm-neoverse-e1-n1-processors-edge-cloud-infrastructure/)
 
+- [Arm Neoverse N1 Platform 설명](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-neoverse-n1-platform-accelerating-the-transformation-to-a-scalable-cloud-to-edge-infrastructure)
+
 - [ARM Neoverse N1 Microarchitecture](https://developer.arm.com/ip-products/processors/neoverse/neoverse-n1)
 
 ## ARM Neoverse Verification
