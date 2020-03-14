@@ -17,9 +17,15 @@
 
 - [Arm Neoverse E1 & N1 Processor Target Edge and Cloud Infrastructure](https://www.cnx-software.com/2019/02/21/arm-neoverse-e1-n1-processors-edge-cloud-infrastructure/)
 
+
+## ARM Neoverse Verification
+- [ARM verification, Alan Hunter 23th Jan 2020](https://www.cerc.utexas.edu/~jaa/verification/lectures/2-2.pdf)
+
 ## ARM Neoverse SmartNIC Concept
 - [Arm SmartNIC](http://www.armtechforum.com/israel/upload/A2_SmartNIC_David%20Koenen.pdf)
 
+## ARM Neoverse CCIX
+- [On board Memory Expansion using CCIX-attached DRAM or Persistent Memory](https://www.ccixconsortium.com/wp-content/uploads/2020/02/Lenovo-Arm-CCIX-MemExpan-ArmTecCon19.pdf)
 
 ## AWS Graviton2
 - [ARM Graviton2: What it means for Arm](http://www.armtechforum.com/israel/upload/A2_SmartNIC_David%20Koenen.pdf)
@@ -31,7 +37,7 @@
  - [ARM IR](https://cdn.group.softbank/en/corp/set/data/irinfo/presentations/investors/pdf/2017/investor_20170907_01.pdf)
 
 ## Ampere Computing 
-
+- [Ampere Altra Announcement](https://ashik.pw/ampere-altra-announces-80-core-arm-neoverse-n1-server-processor-reference-designs/)
 
 ## Centriq
  - [Qualcomm centriq](https://www.theregister.co.uk/2017/11/08/qualcomm_centriq_2400/)
