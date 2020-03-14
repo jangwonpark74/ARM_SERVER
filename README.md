@@ -13,10 +13,14 @@
 
 ## ARM Neoverse N1 SoC 
 - [Preparing the Cloud for the Fifth Wave of Computing](http://www.armtechforum.com.cn/attached/article/K3_DrewHenry20181109121206.pdf)
+
 - [Arm Neoverse N1 Cloud-to-Edge Infrastructure SoCs](https://www.hotchips.org/hc31/HC31_1.2_20190816_Arm_Neoverse_N1_CPU.pdf)
+
+- [A Journey to NG Arm Neoverse N1 and E1 Core: Very Detail Explanation](https://www.servethehome.com/arm-neoverse-n-e-tech-day/)
 
 - [Arm Neoverse E1 & N1 Processor Target Edge and Cloud Infrastructure](https://www.cnx-software.com/2019/02/21/arm-neoverse-e1-n1-processors-edge-cloud-infrastructure/)
 
+- [ARM Neoverse N1 Microarchitecture](https://developer.arm.com/ip-products/processors/neoverse/neoverse-n1)
 
 ## ARM Neoverse Verification
 - [ARM verification, Alan Hunter 23th Jan 2020](https://www.cerc.utexas.edu/~jaa/verification/lectures/2-2.pdf)
