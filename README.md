@@ -21,6 +21,9 @@
 - [Arm SmartNIC](http://www.armtechforum.com/israel/upload/A2_SmartNIC_David%20Koenen.pdf)
 
 
+## AWS Graviton2
+- [ARM Graviton2: What it means for Arm](http://www.armtechforum.com/israel/upload/A2_SmartNIC_David%20Koenen.pdf)
+
 ## Astra SuperComputer
  - [Astra Thunder X2](https://en.wikichip.org/wiki/supercomputers/astra)
   
