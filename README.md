@@ -1,5 +1,8 @@
 # ARM_SERVER
 
+## Architecture vs Micro-Architecture
+- [ARM Architecture Guide](https://developer.arm.com/architectures/learn-the-architecture/introducing-the-arm-architecture/single-page)
+
 ## ARMv1 HACK
  
  - [ARMv1 CPU](https://en.wikichip.org/wiki/acorn/microarchitectures/arm1)
