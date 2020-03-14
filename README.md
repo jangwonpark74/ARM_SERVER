@@ -16,6 +16,8 @@
 ## ARM Preparing for Future
  - [ARM IR](https://cdn.group.softbank/en/corp/set/data/irinfo/presentations/investors/pdf/2017/investor_20170907_01.pdf)
 
+## Ampere Computing 
+
 
 ## Centriq
  - [Qualcomm centriq](https://www.theregister.co.uk/2017/11/08/qualcomm_centriq_2400/)
