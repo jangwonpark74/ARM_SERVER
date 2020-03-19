@@ -27,6 +27,9 @@
 ## ARM Neoverse Verification
 - [ARM verification, Alan Hunter 23th Jan 2020](https://www.cerc.utexas.edu/~jaa/verification/lectures/2-2.pdf)
 
+## ARM BFloat16
+- [BFloat16 for ARM] (https://community.arm.com/developer/ip-products/processors/b/ml-ip-blog/posts/bfloat16-processing-for-neural-networks-on-armv8_2d00_a)
+
 ## ARM Neoverse SmartNIC Concept
 - [Arm SmartNIC](http://www.armtechforum.com/israel/upload/A2_SmartNIC_David%20Koenen.pdf)
 
