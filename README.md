@@ -24,6 +24,11 @@
 
 - [ARM Neoverse N1 Microarchitecture](https://developer.arm.com/ip-products/processors/neoverse/neoverse-n1)
 
+
+## Matrix Inversion for Wideband MU-MIMO Data Detection
+- [Approximate Matrix Inversion](http://www.csl.cornell.edu/~studer/papers/17JSPS_fade.pdf)
+
+
 ## ARM Neoverse Verification
 - [ARM verification, Alan Hunter 23th Jan 2020](https://www.cerc.utexas.edu/~jaa/verification/lectures/2-2.pdf)
 
